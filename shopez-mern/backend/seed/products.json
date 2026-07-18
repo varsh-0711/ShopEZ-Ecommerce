@@ -1,0 +1,429 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15 Pro Max",
+    "category": "electronics",
+    "price": 134900,
+    "originalPrice": 149900,
+    "rating": 4.8,
+    "reviews": 12450,
+    "image": "📱",
+    "img": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "256GB",
+      "512GB",
+      "1TB"
+    ],
+    "brand": "Apple",
+    "stock": 15,
+    "description": "A17 Pro chip, Titanium design, 48MP camera system. The most advanced iPhone ever built.",
+    "discount": 10,
+    "tags": [
+      "bestseller",
+      "new"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Samsung 65\" 4K QLED Smart TV",
+    "category": "electronics",
+    "price": 89990,
+    "originalPrice": 129990,
+    "rating": 4.6,
+    "reviews": 8732,
+    "image": "📺",
+    "img": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "55 inch",
+      "65 inch",
+      "75 inch"
+    ],
+    "brand": "Samsung",
+    "stock": 8,
+    "description": "Quantum HDR, Smart TV with built-in Alexa, Dolby Atmos sound system.",
+    "discount": 31,
+    "tags": [
+      "deal"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "category": "electronics",
+    "price": 24990,
+    "originalPrice": 34990,
+    "rating": 4.7,
+    "reviews": 23100,
+    "image": "🎧",
+    "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "Standard",
+      "Travel Bundle"
+    ],
+    "brand": "Sony",
+    "stock": 50,
+    "description": "Industry-leading noise cancelling, 30-hour battery, multipoint connection.",
+    "discount": 29,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Apple MacBook Air M3 15-inch",
+    "category": "electronics",
+    "price": 114900,
+    "originalPrice": 124900,
+    "rating": 4.9,
+    "reviews": 5621,
+    "image": "💻",
+    "img": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "8GB RAM / 256GB SSD",
+      "16GB RAM / 512GB SSD",
+      "24GB RAM / 512GB SSD"
+    ],
+    "brand": "Apple",
+    "stock": 12,
+    "description": "M3 chip, 15-inch Liquid Retina display, 18-hour battery life, 8GB RAM.",
+    "discount": 8,
+    "tags": [
+      "new"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "OnePlus 12 5G Smartphone",
+    "category": "electronics",
+    "price": 64999,
+    "originalPrice": 74999,
+    "rating": 4.6,
+    "reviews": 9820,
+    "image": "📲",
+    "img": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "12GB RAM / 256GB Storage",
+      "16GB RAM / 512GB Storage"
+    ],
+    "brand": "OnePlus",
+    "stock": 30,
+    "description": "Snapdragon 8 Gen 3, 50MP Hasselblad camera, 100W SuperVOOC charging.",
+    "discount": 13,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Women's Floral Midi Dress",
+    "category": "fashion",
+    "price": 1299,
+    "originalPrice": 2999,
+    "rating": 4.4,
+    "reviews": 3420,
+    "image": "👗",
+    "img": "https://anrobee.com/cdn/shop/files/rosara-dream-floral-midi-dress-for-women-twirl.webp?v=1754048575",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "brand": "Libas",
+    "stock": 200,
+    "description": "Summer collection, lightweight chiffon fabric, available in 8 colours.",
+    "discount": 57,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Men's Nike Running Shoes",
+    "category": "fashion",
+    "price": 3499,
+    "originalPrice": 5999,
+    "rating": 4.5,
+    "reviews": 8901,
+    "image": "👟",
+    "img": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "brand": "Nike",
+    "stock": 85,
+    "description": "Air cushion technology, breathable mesh upper, anti-slip sole.",
+    "discount": 42,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Levi's Men's 511 Slim Jeans",
+    "category": "fashion",
+    "price": 2799,
+    "originalPrice": 3999,
+    "rating": 4.3,
+    "reviews": 15670,
+    "image": "👖",
+    "img": "https://levi.com.my/cdn/shop/files/levis-mens-511-slim-jeans-045115883_1_ON_FV_f25eaa01-2dfe-43cb-bcb8-dfc762f24bbe_860x945_crop_center.progressive.jpg?v=1711343502",
+    "sizes": [
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "brand": "Levi's",
+    "stock": 120,
+    "description": "Stretch denim, slim fit, multiple wash options, sits below waist.",
+    "discount": 30,
+    "tags": []
+  },
+  {
+    "id": 9,
+    "name": "Women's Silk Embroidered Saree",
+    "category": "fashion",
+    "price": 1899,
+    "originalPrice": 3499,
+    "rating": 4.6,
+    "reviews": 7823,
+    "image": "👘",
+    "img": "https://www.anitadongre.com/dw/image/v2/BGCX_PRD/on/demandware.static/-/Sites-masterCatalog_AD_India/default/dw4de778b8/images/hires/F25/Women/F24A17_Cream_Gold_1.jpg?sw=1400&sh=2100&sm=fit&strip=false",
+    "stock": 65,
+    "description": "Festive collection, pure silk, embroidery work included.",
+    "discount": 46,
+    "tags": [
+      "trending"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Instant Pot Pro Multi-Cooker",
+    "category": "home",
+    "price": 8999,
+    "originalPrice": 12999,
+    "rating": 4.7,
+    "reviews": 34521,
+    "image": "🍲",
+    "img": "https://m.media-amazon.com/images/I/71VqtiJZkDL._AC_SL1500_.jpg",
+    "sizes": [
+      "3 Litre",
+      "5.7 Litre",
+      "8 Litre"
+    ],
+    "brand": "Instant Pot",
+    "stock": 30,
+    "description": "Pressure cooker, slow cooker, rice cooker, steamer, sauté pan & more.",
+    "discount": 31,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "iRobot Roomba Robot Vacuum",
+    "category": "home",
+    "price": 19999,
+    "originalPrice": 34999,
+    "rating": 4.5,
+    "reviews": 9832,
+    "image": "🤖",
+    "img": "https://spectrum.ieee.org/media-library/a-round-black-robot-vacuum-with-a-mopping-pad-that-can-move-from-below-the-robot-to-above-the-robot-and-out-of-the-way.jpg?id=31828592&width=1200&height=765",
+    "sizes": [
+      "Standard Dock",
+      "Auto-Empty Dock"
+    ],
+    "brand": "iRobot",
+    "stock": 22,
+    "description": "LiDAR navigation, auto-empty dock, works with Alexa & Google Home.",
+    "discount": 43,
+    "tags": [
+      "deal"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Dyson Air Purifier TP07",
+    "category": "home",
+    "price": 12499,
+    "originalPrice": 17999,
+    "rating": 4.6,
+    "reviews": 6234,
+    "image": "💨",
+    "img": "https://dyson-h.assetsadobe2.com/is/image/content/dam/dyson/products/air-treatment/purifiers/pure-cool-cryptomic/438e/pdps/black-nickel/TP07-variant-spec-BLKNK.jpg?$responsive$&fmt=png-alpha&cropPathE=mobile&fit=stretch,1&wid=1328",
+    "sizes": [
+      "TP07 Tower",
+      "TP09 Hot+Cool"
+    ],
+    "brand": "Dyson",
+    "stock": 18,
+    "description": "HEPA 13 filter, removes 99.97% of pollutants, 360° Air Multiplier.",
+    "discount": 31,
+    "tags": []
+  },
+  {
+    "id": 13,
+    "name": "Prestige Non-stick Cookware Set 5pc",
+    "category": "home",
+    "price": 3299,
+    "originalPrice": 6499,
+    "rating": 4.3,
+    "reviews": 11230,
+    "image": "🍳",
+    "img": "https://5.imimg.com/data5/GG/YH/MY-23158756/non-stick-cookware.jpg",
+    "sizes": [
+      "3 Piece Set",
+      "5 Piece Set"
+    ],
+    "brand": "Prestige",
+    "stock": 45,
+    "description": "Hard anodized, induction compatible, dishwasher safe, lifetime warranty.",
+    "discount": 49,
+    "tags": [
+      "deal"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Minimalist Vitamin C 15% Face Serum",
+    "category": "beauty",
+    "price": 799,
+    "originalPrice": 1299,
+    "rating": 4.5,
+    "reviews": 45600,
+    "image": "✨",
+    "img": "https://m.media-amazon.com/images/I/717Kb7GUFyL.jpg",
+    "sizes": [
+      "30ml",
+      "50ml"
+    ],
+    "brand": "Minimalist",
+    "stock": 300,
+    "description": "15% Vitamin C + Alpha Arbutin, brightening & anti-ageing formula.",
+    "discount": 38,
+    "tags": [
+      "bestseller",
+      "trending"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Lakme Absolute Foundation SPF 15",
+    "category": "beauty",
+    "price": 699,
+    "originalPrice": 899,
+    "rating": 4.2,
+    "reviews": 23450,
+    "image": "💄",
+    "img": "https://m.media-amazon.com/images/I/51gvV8Cv-jL.jpg",
+    "sizes": [
+      "Ivory (Light)",
+      "Natural (Medium)",
+      "Beige (Warm)",
+      "Sand (Deep)"
+    ],
+    "brand": "Lakme",
+    "stock": 150,
+    "description": "Full coverage, SPF 15 protection, available in 20 shades, 24hr wear.",
+    "discount": 22,
+    "tags": []
+  },
+  {
+    "id": 16,
+    "name": "Boldfit Premium Yoga Mat 6mm",
+    "category": "sports",
+    "price": 1299,
+    "originalPrice": 2499,
+    "rating": 4.6,
+    "reviews": 18900,
+    "image": "🧘",
+    "img": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "6mm Standard",
+      "8mm Extra Thick"
+    ],
+    "brand": "Boldfit",
+    "stock": 200,
+    "description": "Anti-slip, extra thick 6mm, moisture-resistant, carrying strap included.",
+    "discount": 48,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "PowerMax Adjustable Dumbbell Set 20kg",
+    "category": "sports",
+    "price": 4999,
+    "originalPrice": 7999,
+    "rating": 4.7,
+    "reviews": 5640,
+    "image": "🏋️",
+    "img": "https://images.unsplash.com/photo-1605296867304-46d5465a13f1?w=500&q=80&auto=format&fit=crop",
+    "sizes": [
+      "10kg Pair",
+      "20kg Pair",
+      "30kg Pair"
+    ],
+    "brand": "PowerMax",
+    "stock": 35,
+    "description": "Space-saving design, quick-lock mechanism, chrome & rubber finish.",
+    "discount": 38,
+    "tags": [
+      "deal"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Atomic Habits – James Clear",
+    "category": "books",
+    "price": 399,
+    "originalPrice": 599,
+    "rating": 4.9,
+    "reviews": 89000,
+    "image": "📗",
+    "img": "https://cultivatewhatmatters.com/cdn/shop/articles/atomic-habits.jpg?v=1624827508",
+    "sizes": [
+      "Paperback",
+      "Hardcover",
+      "Kindle Edition"
+    ],
+    "brand": "James Clear",
+    "stock": 500,
+    "description": "#1 New York Times bestseller. Tiny changes, remarkable results.",
+    "discount": 33,
+    "tags": [
+      "bestseller"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "The Psychology of Money – Morgan Housel",
+    "category": "books",
+    "price": 349,
+    "originalPrice": 499,
+    "rating": 4.8,
+    "reviews": 56000,
+    "image": "📘",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVf4rk5NHsHwVehN7UH_zRHSmHuBvMpD2VCA&s",
+    "sizes": [
+      "Paperback",
+      "Hardcover",
+      "Kindle Edition"
+    ],
+    "brand": "Morgan Housel",
+    "stock": 400,
+    "description": "Timeless lessons on wealth, greed, and happiness from Morgan Housel.",
+    "discount": 30,
+    "tags": [
+      "trending"
+    ]
+  }
+]
